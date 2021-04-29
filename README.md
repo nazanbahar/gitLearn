@@ -642,7 +642,7 @@ Elde ettiğimiz çıktı:
 
     Alıntı yapılan metin.
 
-
+https://www.patika.dev/egitimler/java-ile-backend-web-development-patikasi/git/markdown-nedir-nasil-kullaniriz-
 
 
 
