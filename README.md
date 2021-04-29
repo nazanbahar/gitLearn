@@ -25,19 +25,19 @@ localrepo: zaman makinası, farklı dallara geçebiliriz. Bunları repoda tutuyo
 staging area: geçiş bölgesi değişiklikten vazgeçebilir.
 git commit: yaptığımız değişiklikleri, kaydediyoruz.
 2) Remote
--------------
+
 Önemli not: önce kendi repository mize gönderiyoruz. Sonra ortak repository'e gönderiyoruz.
---------------------------
-//GITBASH CODELAR//
+
+GITBASH CODELAR
 cd Desktop/
 cd repos
 cd javacamp
----------------
+
 git config --list
 git config --global user.name = 'Nazan'
-----------------------------
+
 git init
-//git klasörü oluşturu.
+git klasörü oluşturur.
 
 git status
 //git status nedir? 
