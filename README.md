@@ -72,8 +72,6 @@ ekrandan çıkmak için esc bas,
 
 
 
-
---------------------------------
 Git Bash: https://git-scm.com/​
 VS Code: https://code.visualstudio.com/​
 Bootstrap Tema: https://startbootstrap.com/themes/res...
