@@ -1,6 +1,6 @@
 # gitLearn
 Learning Github 
-##1GIT Nedir?
+## 1GIT Nedir?
 
 GIT Kontrol Sistemi'nin ne olduğunu anlatmaya başlamadan önce biraz kültür mantarı moduna geçelim ve "git" kelimesinin anlamı ve bu sistemin kısa tarihsel gelişimi üzerine konulaşım. Peki bunu neden yapıyoruz?
 
