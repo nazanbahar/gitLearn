@@ -1,6 +1,6 @@
 # gitLearn
 Learning Github 
-
+https://aliozgur.gitbooks.io/git101/content/ileri_seviye_komutlar_ve_islemler/degisikliklerinizi_geri_almak.html
 Git
 fetch origin - kökeni getir
 pull - Çek
