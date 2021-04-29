@@ -384,7 +384,7 @@ Kaynaklar:
     https://docs.github.com/en/free-pro-team@latest/github/using-git/ignoring-files
     https://www.pluralsight.com/guides/how-to-use-gitignore-file
     http://git-scm.com/docs/gitignore
-    https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/
+    https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/ ```
     
 ## 5- GIT - Proje İçindeki Birden Fazla Dosyanın Versiyon Kontrol Sistemine Eklenebilmesi
 
