@@ -1,5 +1,122 @@
 # gitLearn
 Learning Github 
+Git
+Versiyon kontrol sistemi
+Süreç işidir. Sürüm kontrolü yapılır.
+--işbirliği
+--takım halinde çalışmak
+--değişikliklerin çalışmaması.
+Neden Git?
+3 temel özelik
+--geliştirme süreçlerini izlemek
+--eski versiyona dönmek
+--hangi değişiklikler
+--işbirliği
+--proje belli dallara ayrılabilir
+backend yada frontend branch
+
+projenin tarihi kaydını alır. 
+İki aşama vardır.
+1) Local 
+2) Remote
+1) Local
+
+localrepo: zaman makinası, farklı dallara geçebiliriz. Bunları repoda tutuyoruz. 
+staging area: geçiş bölgesi değişiklikten vazgeçebilir.
+git commit: yaptığımız değişiklikleri, kaydediyoruz.
+2) Remote
+-------------
+Önemli not: önce kendi repository mize gönderiyoruz. Sonra ortak repository'e gönderiyoruz.
+--------------------------
+//GITBASH CODELAR//
+cd Desktop/
+cd repos
+cd javacamp
+---------------
+git config --list
+git config --global user.name = 'Nazan'
+----------------------------
+git init
+//git klasörü oluşturu.
+
+git status
+//git status nedir? 
+git hangi dosyları takip edecek.
+
+git add .
+
+git status
+//status bölgesine geçtik.
+
+git -m 'lesson1: add,update,delete dosyaları gönderildi...'
+// commit yaparken ne yaptığımı yazayım.
+
+git status
+--on branch master
+--nothing to commit, working tree clean
+
+clear
+//satır temizler
+
+--değişiklik yap
+git status
+modified
+
+aslında bizim çalışma bölgemizden geçiş bölgesine göndermiş oluyoruz.
+
+git commit -m 'index html'
+
+gelen ekrana yorum yaz.
+ekrandan çıkmak için esc bas, 
+
+
+
+
+
+--------------------------------
+Git Bash: https://git-scm.com/​
+VS Code: https://code.visualstudio.com/​
+Bootstrap Tema: https://startbootstrap.com/themes/res...
+Git, GitHub, & Workflow Fundamentals : https://dev.to/mollynem/git-github--workflow-fundamentals-5496
+Github fundementals : https://dev.to/t/github
+Konu Başlıkları:
+Git Nedir?
+Neden Git Kullanırız?
+Git VSCode Entegrasyonu
+Repository Nedir?
+Çalışma Dizini Nedir?
+Staging Area (Geçiş Bölgesi) Nedir?
+Commit Nedir?
+Branching Nedir?
+Merging Nedir?
+Gitignore Nedir?
+
+Temel Git Komutları:
+git add
+git status
+git log
+git show
+git diff
+git rm
+git mv
+git checkout
+git revert
+git reset (hard, soft, mixed)
+git restore
+git reflog
+git branch
+git merge
+
+Komut Satırı:
+touch
+rm - mv
+cd - dir
+ls -al
+
+ArinSoft
+
+
+
 ## 1 - GIT Nedir?
 
 GIT Kontrol Sistemi'nin ne olduğunu anlatmaya başlamadan önce biraz kültür mantarı moduna geçelim ve "git" kelimesinin anlamı ve bu sistemin kısa tarihsel gelişimi üzerine konulaşım. Peki bunu neden yapıyoruz?
