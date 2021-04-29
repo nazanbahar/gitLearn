@@ -1,6 +1,12 @@
 # gitLearn
 Learning Github 
+
 Git
+fetch origin - kökeni getir
+pull - Çek
+merge -birleştirmek
+syn - senkronize et localde de.
+
 Versiyon kontrol sistemi
 Süreç işidir. Sürüm kontrolü yapılır.
 --işbirliği
